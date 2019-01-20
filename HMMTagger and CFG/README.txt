@@ -29,7 +29,3 @@ Part 2: Writing a Context-Free Grammar
  (12)   hw2_cfg_out.txt:        Successful parse trees in tabbed, bracketed format, generated from hw2_nltkcfg.py (generated file)
 
 
-***********************************************************************************************
-*  Please note that you are not allowed to share the data with people outside of this class.  *
-*  Furthermore, you must delete the three data files at the end of this semester.             *
-***********************************************************************************************
